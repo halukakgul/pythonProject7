@@ -1,2 +1,5 @@
 print("Hello from example 1")
-git --version
+
+def add(a, b):
+    return a + b
+
